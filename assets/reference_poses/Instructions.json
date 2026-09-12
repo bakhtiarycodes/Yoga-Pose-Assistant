@@ -1,0 +1,167 @@
+{
+  "Boat Pose (Navasana)": {
+    "level": "intermediate",
+    "benefits": "Strengthens core and hip flexors, improves balance and digestion.",
+    "instructions": "Sit on the floor, lift legs and torso to form a V, extend arms forward, balance on sit bones."
+  },
+  "Bound Angle Pose (Baddha Konasana)": {
+    "level": "beginner",
+    "benefits": "Opens hips and groin, improves flexibility and circulation, stretches inner thighs.",
+    "instructions": "Sit, bend knees, press soles together, let knees fall outward, keep spine straight."
+  },
+  "Bow Pose (Dhanurasana)": {
+    "level": "intermediate",
+    "benefits": "Strengthens back muscles, improves spinal flexibility, opens chest and hips.",
+    "instructions": "Lie on belly, bend knees, reach back to grasp ankles, lift chest and thighs while pulling feet back."
+  },
+  "Bridge Pose (Setu Bandha Sarvangasana)": {
+    "level": "beginner",
+    "benefits": "Stretches chest, neck and spine, strengthens legs and lower back.",
+    "instructions": "Lie on back with knees bent, lift hips upward, clasp hands under body."
+  },
+  "Camel Pose (Ustrasana)": {
+    "level": "intermediate",
+    "benefits": "Opens chest, shoulders and hip flexors, improves posture and spinal flexibility.",
+    "instructions": "Kneel, place hands on lower back or heels, press hips forward and arch back, open chest."
+  },
+  "Cat Pose (Marjariasana)": {
+    "level": "beginner",
+    "benefits": "Improves spinal mobility, stretches back and neck, relieves tension.",
+    "instructions": "From tabletop, exhale arch spine upward, tuck chin and tailbone, then inhale to neutral."
+  },
+  "Cobra Pose (Bhujangasana)": {
+    "level": "beginner",
+    "benefits": "Increases spinal flexibility, strengthens back, opens chest.",
+    "instructions": "Lie on belly, hands under shoulders, inhale lift chest while pressing pelvis down." 
+  },
+  "Cow Pose (Bitilasana)": {
+    "level": "beginner",
+    "benefits": "Improves spinal mobility, stretches chest and torso, coordinates breath with movement.",
+    "instructions": "From hands-and-knees, inhale drop belly, lift chest and tailbone upward." 
+  },
+  "Crane Pose (Bakasana)": {
+    "level": "advanced",
+    "benefits": "Builds arm strength, improves balance and focus.",
+    "instructions": "Squat, place hands on floor, lean forward, lift feet and balance knees on upper arms."
+  },
+  "Downward Facing Dog (Adho Mukha Svanasana)": {
+    "level": "beginner",
+    "benefits": "Stretches hamstrings, calves and spine, strengthens arms and shoulders.",
+    "instructions": "From tabletop, lift hips up and back to form an inverted V shape."
+  },
+  "Easy Pose (Sukhasana)": {
+    "level": "beginner",
+    "benefits": "Calms mind, stretches knees and ankles, improves posture.",
+    "instructions": "Sit cross‑legged, spine tall, shoulders relaxed."
+  },
+  "Four‑Limbed Staff Pose (Chaturanga Dandasana)": {
+    "level": "intermediate",
+    "benefits": "Strengthens core, arms and shoulders.",
+    "instructions": "From plank, lower body while keeping elbows close to ribs."
+  },
+  "Plank Pose (Phalakasana)": {
+    "level": "beginner",
+    "benefits": "Strengthens core, arms and shoulders.",
+    "instructions": "From hands and toes, hold body in straight line."
+  },
+  "Triangle Pose (Trikonasana)": {
+    "level": "beginner",
+    "benefits": "Stretches hips, legs and spine, improves balance.",
+    "instructions": "Stand wide, reach forward, hinge at hip, lower hand to shin/ankle and extend opposite arm."
+  },
+  "Child's Pose (Balasana)": {
+    "level": "beginner",
+    "benefits": "Relaxes back and shoulders, calms the mind.",
+    "instructions": "From tabletop, sit back on heels and stretch arms forward."
+  },
+  "Downward Dog Split (Three‑Legged Dog)": {
+    "level": "intermediate",
+    "benefits": "Improves balance and strength, stretches hamstrings.",
+    "instructions": "From downward dog, lift one leg high and hold."
+  },
+  "Upward Facing Dog (Urdhva Mukha Svanasana)": {
+    "level": "intermediate",
+    "benefits": "Opens chest, strengthens back and arms.",
+    "instructions": "Lie on belly, press hands down, lift chest and legs off floor."
+  },
+  "Warrior I (Virabhadrasana I)": {
+    "level": "beginner",
+    "benefits": "Strengthens legs and core, improves stability.",
+    "instructions": "From standing, step back, bend front knee, lift arms overhead."
+  },
+  "Warrior II (Virabhadrasana II)": {
+    "level": "beginner",
+    "benefits": "Strengthens legs, opens hips.",
+    "instructions": "Wide stance, bend front knee, extend arms sideways."
+  },
+  "Warrior III (Virabhadrasana III)": {
+    "level": "intermediate",
+    "benefits": "Improves balance and core strength.",
+    "instructions": "Lean forward, lift back leg and keep body in straight line."
+  },
+  "Garland Pose (Malasana)": {
+    "level": "beginner",
+    "benefits": "Opens hips and groin.",
+    "instructions": "Squat low with feet apart, spine tall."
+  },
+  "High Lunge (Anjaneyasana)": {
+    "level": "beginner",
+    "benefits": "Strengthens legs and hips, stretches hip flexors.",
+    "instructions": "Step one foot back, bend front knee and lift arms overhead."
+  },
+  "Seated Forward Bend (Paschimottanasana)": {
+    "level": "beginner",
+    "benefits": "Stretches spine and hamstrings.",
+    "instructions": "Sit with legs long, hinge forward from hips."
+  },
+  "Legs Up the Wall (Viparita Karani)": {
+    "level": "beginner",
+    "benefits": "Relaxes legs and back, calms mind.",
+    "instructions": "Lie on back with legs extended up against a wall."
+  },
+  "Head‑to‑Knee Forward Bend (Janu Sirsasana)": {
+    "level": "intermediate",
+    "benefits": "Stretches hamstring and spine.",
+    "instructions": "Sit, one leg straight, hinge forward over extended leg."
+  },
+  "Side Plank (Vasisthasana)": {
+    "level": "intermediate",
+    "benefits": "Strengthens arms and obliques.",
+    "instructions": "From plank, rotate onto side and lift top arm."
+  },
+  "Crow Pose (Kakasana)": {
+    "level": "advanced",
+    "benefits": "Builds arm strength and balance.",
+    "instructions": "Squat, place hands, lean forward and lift feet."
+  },
+  "Half Moon Pose (Ardha Chandrasana)": {
+    "level": "intermediate",
+    "benefits": "Improves balance and coordination, strengthens legs, stretches groin and hamstrings.",
+    "instructions": "From standing, place one hand on the floor or block, lift the opposite leg, extend your top arm towards the ceiling and open your chest."
+  },
+  "Hero Pose (Virasana)": {
+    "level": "beginner",
+    "benefits": "Stretches quadriceps and ankles, improves posture and circulation, calms the mind.",
+    "instructions": "Kneel with knees together, sit between your feet, keep spine tall, hands resting on thighs."
+  },
+  "Monkey Pose (Hanumanasana)": {
+    "level": "advanced",
+    "benefits": "Deep hamstring and hip flexor stretch, improves flexibility and leg strength.",
+    "instructions": "Start in low lunge, square your hips, slide the front heel forward until legs are straight in a split position, keep torso upright."
+  },
+  "Plow Pose (Halasana)": {
+    "level": "intermediate",
+    "benefits": "Stretches spine, shoulders and hamstrings, stimulates nervous and digestive systems.",
+    "instructions": "Lie on your back, lift legs overhead until toes touch the floor behind the head, keep hands on the back or floor for support."
+  },
+  "Super Fish Pose (Matsyasana variation)": {
+    "level": "intermediate",
+    "benefits": "Opens chest and throat, strengthens upper back and improves breathing.",
+    "instructions": "Lie on your back, arch chest up, crown of head rests lightly on the floor, engage core and lift slightly for chest opening."
+  },
+  "Table Pose (Bharmanasana)": {
+    "level": "beginner",
+    "benefits": "Strengthens wrists, arms, and core while stabilizing shoulders, improves posture.",
+    "instructions": "From hands and knees, align shoulders over wrists and hips over knees, engage core, keep spine neutral."
+  }
+}
